@@ -13,7 +13,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "db"))
 from db_utils import get_connection
 
 ROOT = Path(__file__).resolve().parents[2]
-OUT_DIR = ROOT / "frontend" / "data"
+OUT_DIR = ROOT / "docs" / "data"
 
 
 def esporta_dichiarazioni(conn):
