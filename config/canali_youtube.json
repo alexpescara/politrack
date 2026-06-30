@@ -1,22 +1,16 @@
 {
-  "_note": "Inserisci qui SOLO canali YouTube ufficiali/verificati (istituzioni, partiti, o canale personale verificato del politico). Per trovare il channel_id di un canale: apri il canale su YouTube > 'Informazioni canale' > copia l'ID che inizia con UC..., oppure usa l'endpoint API channels.list?forHandle=@nomehandle. Lo script youtube_scraper.py usa playlistItems.list sulla 'uploads playlist' del canale (channel_id con UC sostituito da UU) per restare nel piano gratuito a basso consumo di quota.",
+  "_note": "Inserisci qui SOLO canali YouTube ufficiali/verificati...",
   "canali": [
     {
       "id": "camera_deputati",
       "nome": "Camera dei Deputati",
-      "channel_id": "INSERISCI_CHANNEL_ID",
+      "channel_id": "UCwP4zsC0r9eqRQOethu5EFg",
       "tipo": "istituzionale"
     },
     {
       "id": "senato",
       "nome": "Senato della Repubblica",
-      "channel_id": "INSERISCI_CHANNEL_ID",
-      "tipo": "istituzionale"
-    },
-    {
-      "id": "palazzo_chigi",
-      "nome": "Palazzo Chigi / Governo",
-      "channel_id": "INSERISCI_CHANNEL_ID",
+      "channel_id": "UCbanqpWVQ0l4v_aPUV-j9JQ",
       "tipo": "istituzionale"
     }
   ]
