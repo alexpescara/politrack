@@ -1,6 +1,15 @@
 {
   "2026-06-30": [
     {
+      "id": 21,
+      "politico_id": "meloni",
+      "fonte_tipo": "stampa",
+      "fonte_nome": "Il Fatto Quotidiano",
+      "fonte_url": "https://www.ilfattoquotidiano.it/2026/06/30/il-caos-treni-colpisce-ancora-rischia-pure-la-legge-elettorale/8434964/",
+      "riassunto": "(sintesi automatica grezza, da rivedere) Il caos treni colpisce ancora: rischia pure la legge elettorale. <p>Non dovrebbe essere nemmeno la prossima la settimana giusta per approvare la legge elettorale voluta da Giorgia Meloni: il voto era previsto martedì 7 e mercoledì 8 ma tutto dovrebbe...",
+      "temi": []
+    },
+    {
       "id": 20,
       "politico_id": "fratoianni",
       "fonte_tipo": "stampa",
