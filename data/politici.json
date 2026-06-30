@@ -1,0 +1,94 @@
+{
+  "_note": "Lista di partenza (Fase 1 - MVP). Modificabile liberamente: ogni voce ha gli 'alias' usati dagli scraper per riconoscere il politico nei testi (resoconti, comunicati, sottotitoli). 'camera_id_persona' e' l'idPersona usato da documenti.camera.it quando noto (facoltativo, va verificato/aggiornato).",
+  "politici": [
+    {
+      "id": "meloni",
+      "nome": "Giorgia Meloni",
+      "ruolo": "Presidente del Consiglio dei Ministri",
+      "partito": "Fratelli d'Italia",
+      "partito_sigla": "FdI",
+      "colore": "#1d3557",
+      "alias": ["GIORGIA MELONI", "PRESIDENTE MELONI"],
+      "camera_id_persona": null,
+      "camere": ["camera"]
+    },
+    {
+      "id": "schlein",
+      "nome": "Elly Schlein",
+      "ruolo": "Segretaria nazionale",
+      "partito": "Partito Democratico",
+      "partito_sigla": "PD",
+      "colore": "#e63946",
+      "alias": ["ELLY SCHLEIN", "SCHLEIN"],
+      "camera_id_persona": null,
+      "camere": ["camera", "senato"]
+    },
+    {
+      "id": "conte",
+      "nome": "Giuseppe Conte",
+      "ruolo": "Presidente",
+      "partito": "Movimento 5 Stelle",
+      "partito_sigla": "M5S",
+      "colore": "#f4a300",
+      "alias": ["GIUSEPPE CONTE"],
+      "camera_id_persona": null,
+      "camere": ["camera", "senato"]
+    },
+    {
+      "id": "salvini",
+      "nome": "Matteo Salvini",
+      "ruolo": "Vicepresidente del Consiglio, Ministro Infrastrutture e Trasporti, Segretario federale",
+      "partito": "Lega",
+      "partito_sigla": "Lega",
+      "colore": "#2a9d8f",
+      "alias": ["MATTEO SALVINI", "SALVINI"],
+      "camera_id_persona": null,
+      "camere": ["camera", "senato"]
+    },
+    {
+      "id": "renzi",
+      "nome": "Matteo Renzi",
+      "ruolo": "Senatore, Leader",
+      "partito": "Italia Viva",
+      "partito_sigla": "IV",
+      "colore": "#f3722c",
+      "alias": ["MATTEO RENZI", "RENZI"],
+      "camera_id_persona": null,
+      "camere": ["senato", "camera"]
+    },
+    {
+      "id": "bonelli",
+      "nome": "Angelo Bonelli",
+      "ruolo": "Deputato, Co-portavoce",
+      "partito": "Alleanza Verdi e Sinistra (Verdi)",
+      "partito_sigla": "AVS",
+      "colore": "#588157",
+      "alias": ["ANGELO BONELLI", "BONELLI"],
+      "camera_id_persona": "302080",
+      "camere": ["camera"]
+    },
+    {
+      "id": "fratoianni",
+      "nome": "Nicola Fratoianni",
+      "ruolo": "Deputato, Segretario nazionale (Sinistra Italiana)",
+      "partito": "Alleanza Verdi e Sinistra (Sinistra Italiana)",
+      "partito_sigla": "AVS",
+      "colore": "#9d0208",
+      "alias": ["NICOLA FRATOIANNI", "FRATOIANNI"],
+      "camera_id_persona": null,
+      "camere": ["camera"]
+    },
+    {
+      "id": "vannacci",
+      "nome": "Roberto Vannacci",
+      "ruolo": "Europarlamentare",
+      "partito": "Lega (lista, posizione spesso indipendente)",
+      "partito_sigla": "Lega/EU",
+      "colore": "#6c757d",
+      "alias": ["ROBERTO VANNACCI", "VANNACCI"],
+      "camera_id_persona": null,
+      "camere": [],
+      "note": "Non siede in Camera o Senato (e' eurodeputato): le sue dichiarazioni arrivano quasi solo da stampa whitelist, canali YouTube ufficiali (es. Parlamento Europeo) e comunicati. Niente resoconti Camera/Senato per lui."
+    }
+  ]
+}

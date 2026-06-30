@@ -1,0 +1,20 @@
+# Whitelist fonti stampa
+#
+# Una fonte per riga. Formato:
+#   dominio.it | Nome testata | url_feed_rss_o_sitemap (opzionale)
+#
+# Lo script scripts/scraping/stampa_scraper.py legge questo file per sapere
+# da quali siti e' autorizzato a raccogliere SOLO metadati (titolo, data, link)
+# + una breve parafrasi generata dall'LLM. Non viene MAI salvato il testo
+# integrale dell'articolo, per rispetto del copyright editoriale.
+#
+# Aggiungi/rimuovi righe liberamente. Righe che iniziano con # sono commenti.
+
+ansa.it | ANSA | https://www.ansa.it/sito/ansait_rss.xml
+repubblica.it | La Repubblica | https://www.repubblica.it/rss/homepage/rss2.0.xml
+corriere.it | Corriere della Sera | https://xml2.corriereobjects.it/rss/homepage.xml
+ilfattoquotidiano.it | Il Fatto Quotidiano | https://www.ilfattoquotidiano.it/feed/
+ilsole24ore.com | Il Sole 24 Ore | https://www.ilsole24ore.com/rss/italia.xml
+lastampa.it | La Stampa | https://www.lastampa.it/rss/homepage.xml
+huffingtonpost.it | HuffPost Italia | https://www.huffingtonpost.it/feeds/index.xml
+agi.it | AGI | https://www.agi.it/rss
