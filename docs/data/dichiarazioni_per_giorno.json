@@ -1,6 +1,24 @@
 {
   "2026-06-30": [
     {
+      "id": 23,
+      "politico_id": "schlein",
+      "fonte_tipo": "stampa",
+      "fonte_nome": "La Repubblica",
+      "fonte_url": "https://www.repubblica.it/politica/2026/06/30/news/legge_elettorale_pd_emergenza_sanita_meloni-425442668/",
+      "riassunto": "(sintesi automatica grezza, da rivedere) Scontro sulla legge elettorale. Schlein: “La priorità di Meloni è il potere per andare al Colle”. Le opposizioni lanciano l’allarme. Conte: “Pronti al ricorso alla Consulta”. E propone un nuovo nome per la coalizione: “Alleanza per la democrazia e la...",
+      "temi": []
+    },
+    {
+      "id": 22,
+      "politico_id": "schlein",
+      "fonte_tipo": "stampa",
+      "fonte_nome": "ANSA",
+      "fonte_url": "https://www.ansa.it/sito/notizie/politica/2026/06/30/schlein-e-conte-allattacco-la-priorita-di-meloni-e-solo-il-potere_e82ed0e1-d448-43d6-bdc4-ecc8a632d47c.html",
+      "riassunto": "(sintesi automatica grezza, da rivedere) Schlein e Conte all'attacco, 'la priorità di Meloni è solo il potere'. 'Vuole la legge elettorale per arrivare al Colle'. Gli sherpa del centrodestra al lavoro sulle preferenze...",
+      "temi": []
+    },
+    {
       "id": 21,
       "politico_id": "meloni",
       "fonte_tipo": "stampa",
