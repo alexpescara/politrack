@@ -93,10 +93,9 @@ def trascrizione_video(video_id):
               "(vedi requirements.txt). Salto la trascrizione.")
         return None
     try:
-        transcript_list = YouTubeTranscriptApi.list_transcripts(video_id)
-        transcript = transcript_list.find_transcript(["it", "it-IT"])
-        pezzi = transcript.fetch()
-        return " ".join(p["text"] for p in pezzi)
+        ytt_api = YouTubeTranscriptApi()
+        fetched = ytt_api.fetch(video_id, languages=["it", "it-IT", "en"])
+        return " ".join(snippet.text for snippet in fetched)
     except Exception as e:
         print(f"[youtube] nessuna trascrizione disponibile per {video_id}: {e}")
         return None
