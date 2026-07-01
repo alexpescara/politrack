@@ -1,0 +1,41 @@
+name: Reset stato YouTube (una tantum)
+
+on:
+  workflow_dispatch: {}
+
+jobs:
+  reset:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Imposta Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Reset stato YouTube nel DB
+        run: |
+          python3 - <<'EOF'
+          import sqlite3, pathlib
+          db = pathlib.Path("data/tracker.db")
+          if not db.exists():
+              print("DB non trovato, niente da resettare.")
+          else:
+              conn = sqlite3.connect(db)
+              cur = conn.execute(
+                  "DELETE FROM stato_scraping WHERE fonte_tipo LIKE 'youtube%'"
+              )
+              conn.commit()
+              print(f"Rimossi {cur.rowcount} record di stato YouTube.")
+              conn.close()
+          EOF
+
+      - name: Commit DB aggiornato
+        run: |
+          git config user.name "politici-tracker-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/tracker.db
+          git diff --staged --quiet || git commit -m "Reset stato scraping YouTube"
+          git push
