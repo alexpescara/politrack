@@ -1,4 +1,89 @@
 {
+  "2026-07-06": [
+    {
+      "id": 32,
+      "politico_id": "meloni",
+      "fonte_tipo": "stampa",
+      "fonte_nome": "AGI",
+      "fonte_url": "https://www.agi.it/estero/news/2026-07-05/usa-trump-meme-meloni-37882405/",
+      "riassunto": "(sintesi automatica grezza, da rivedere) Attacco di Trump a Meloni. \"Serve ordine restrittivo\". La premier non risponde. Crosetto: .... <p>AGI -&nbsp;Il presidente degli Stati Uniti, <strong>Donald Trump</strong>, ha pubblicato sul suo social Truth ieri, a tarda sera in Italia, un meme di una sua foto...",
+      "temi": []
+    },
+    {
+      "id": 29,
+      "politico_id": "meloni",
+      "fonte_tipo": "stampa",
+      "fonte_nome": "Il Sole 24 Ore",
+      "fonte_url": "https://www.ilsole24ore.com/art/vertice-nato-governo-lavoro-spese-militari-si-studiano-ulteriori-aumenti-ma-spazio-e-stretto-AIr5rh1D",
+      "riassunto": "(sintesi automatica grezza, da rivedere) Vertice Nato, Governo al lavoro sulle spese militari. Si studiano ulteriori aumenti (ma lo spazio è stretto). L’Italia si è impegnata a mantenere una traiettoria di crescita, e Giorgia Meloni lo confermerà al summit di Ankara di martedì e mercoledì,...",
+      "temi": []
+    },
+    {
+      "id": 28,
+      "politico_id": "vannacci",
+      "fonte_tipo": "stampa",
+      "fonte_nome": "Il Fatto Quotidiano",
+      "fonte_url": "https://www.ilfattoquotidiano.it/2026/07/06/vannacci-il-triathlon-futurista-e-la-lotta-ai-panzoni-di-governo/8440554/",
+      "riassunto": "(sintesi automatica grezza, da rivedere) Vannacci, il triathlon futurista e la lotta ai panzoni di governo. <p>Beppe Grillo voleva aprire il Parlamento come una scatoletta di tonno, Roberto Vannacci vorrebbe invece trasformarlo in una palestra salutista ché la politica deve essere di nuovo mens sana...",
+      "temi": []
+    },
+    {
+      "id": 26,
+      "politico_id": "renzi",
+      "fonte_tipo": "stampa",
+      "fonte_nome": "La Repubblica",
+      "fonte_url": "https://www.repubblica.it/politica/2026/07/06/news/meme_trump_contro_meloni_reazioni_politica_renzi_schlein_crosetto-425454161/",
+      "riassunto": "(sintesi automatica grezza, da rivedere) Meme di Trump contro Meloni, Renzi: “Frasi infami”. Schlein: “Inaccettabili”. I ministri minimizzano. Le reazioni della politica italiana al nuovo attacco di Trump alla premier. Crosetto: “Le persone passano, gli Usa restano”...",
+      "temi": []
+    },
+    {
+      "id": 25,
+      "politico_id": "schlein",
+      "fonte_tipo": "stampa",
+      "fonte_nome": "La Repubblica",
+      "fonte_url": "https://www.repubblica.it/politica/2026/07/06/news/meme_trump_contro_meloni_reazioni_politica_renzi_schlein_crosetto-425454161/",
+      "riassunto": "(sintesi automatica grezza, da rivedere) Meme di Trump contro Meloni, Renzi: “Frasi infami”. Schlein: “Inaccettabili”. I ministri minimizzano. Le reazioni della politica italiana al nuovo attacco di Trump alla premier. Crosetto: “Le persone passano, gli Usa restano”...",
+      "temi": []
+    },
+    {
+      "id": 24,
+      "politico_id": "meloni",
+      "fonte_tipo": "governo",
+      "fonte_nome": "Comunicato stampa - Consiglio dei Ministri",
+      "fonte_url": "https://www.governo.it/it/articolo/convocazione-del-consiglio-dei-ministri-n-180/32255",
+      "riassunto": "(sintesi automatica grezza, da rivedere) Convocazione del Consiglio dei Ministri n. 180 | www.governo.it Vai al Contenuto Raggiungi il piè di pagina MENU Homepage Il Presidente Homepage Presidente Giorgia Meloni, la biografia Funzioni Agenda Notizie Interventi Gallerie foto e video Il Governo Homepage Governo I...",
+      "temi": []
+    }
+  ],
+  "2026-07-05": [
+    {
+      "id": 31,
+      "politico_id": "meloni",
+      "fonte_tipo": "stampa",
+      "fonte_nome": "Il Sole 24 Ore",
+      "fonte_url": "https://www.ilsole24ore.com/art/meloni-italia-vertice-turismo-mondiale-successo-che-premia-bellezza-e-qualita-AIFAmW1D",
+      "riassunto": "(sintesi automatica grezza, da rivedere) Meloni: Italia al vertice del turismo mondiale, successo che premia bellezza e qualità. «L’Italia si conferma al vertice del turismo europeo anche per l’estate 2026». Lo ha scritto questa mattina su X la presidente del Consiglio, Giorgia Meloni. «Un risultato...",
+      "temi": []
+    },
+    {
+      "id": 30,
+      "politico_id": "salvini",
+      "fonte_tipo": "stampa",
+      "fonte_nome": "Il Sole 24 Ore",
+      "fonte_url": "https://www.ilsole24ore.com/art/accoltellato-milano-l-aggressore-mi-sono-divertito-appena-esco-rifaccio-AIo46c1D",
+      "riassunto": "(sintesi automatica grezza, da rivedere) Accoltellato a Milano, l’aggressore: «Mi sono divertito, appena esco lo rifaccio». Gerardo P., 55 anni, è stato aggredito mentre faceva colazione in un bar. Ricoverato al Niguarda, non è in pericolo di vita. Salvini: «Se si è divertito e lo...",
+      "temi": []
+    },
+    {
+      "id": 27,
+      "politico_id": "vannacci",
+      "fonte_tipo": "stampa",
+      "fonte_nome": "La Repubblica",
+      "fonte_url": "https://www.repubblica.it/politica/2026/07/06/news/vannacci_futurismo_sanremo_gay_pride_sport-425453459/",
+      "riassunto": "(sintesi automatica grezza, da rivedere) Vannacci in modalità Balilla lancia il triathlon futurista: “Più sport, meno Gay Pride”. La tre giorni che ammicca ai nostalgici del fascismo e rievoca il manifesto di Tommaso Marinetti...",
+      "temi": []
+    }
+  ],
   "2026-06-30": [
     {
       "id": 23,
