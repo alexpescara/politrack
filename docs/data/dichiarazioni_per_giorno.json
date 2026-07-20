@@ -1,4 +1,24 @@
 {
+  "2026-07-20": [
+    {
+      "id": 39,
+      "politico_id": "salvini",
+      "fonte_tipo": "stampa",
+      "fonte_nome": "Il Fatto Quotidiano",
+      "fonte_url": "https://www.ilfattoquotidiano.it/2026/07/20/enac-commissariamento-dorsogna-aviazione-civile-notizie/8449444/",
+      "riassunto": "(sintesi automatica grezza, da rivedere) Dopo Ferrovie, per Salvini è il turno di Enac: meglio commissariare che governare?. <p>Un anno fa ci eravamo interrogati su come la nomina di Alexander D’Orsogna a Direttore Generale dell’ENAC rappresentasse l’emblema di una politica delle poltrone che ha definitivamente...",
+      "temi": []
+    },
+    {
+      "id": 38,
+      "politico_id": "meloni",
+      "fonte_tipo": "governo",
+      "fonte_nome": "Comunicato stampa - Consiglio dei Ministri",
+      "fonte_url": "https://www.governo.it/it/articolo/convocazione-del-consiglio-dei-ministri-n-181/32326",
+      "riassunto": "(sintesi automatica grezza, da rivedere) Convocazione del Consiglio dei Ministri n. 181 | www.governo.it Vai al Contenuto Raggiungi il piè di pagina MENU Homepage Il Presidente Homepage Presidente Giorgia Meloni, la biografia Funzioni Agenda Notizie Interventi Gallerie foto e video Il Governo Homepage Governo I...",
+      "temi": []
+    }
+  ],
   "2026-07-13": [
     {
       "id": 36,
