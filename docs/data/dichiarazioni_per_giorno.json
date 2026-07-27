@@ -1,4 +1,71 @@
 {
+  "2026-07-27": [
+    {
+      "id": 46,
+      "politico_id": "bonelli",
+      "fonte_tipo": "stampa",
+      "fonte_nome": "AGI",
+      "fonte_url": "https://www.agi.it/vista-tv/video/2026-07-27/bonelli-alla-marcia-delle-donne-nere-a-rio-de-janeiro-vittoria-di-lula-fondamentale-per-il-mondo-38252546/",
+      "riassunto": "(sintesi automatica grezza, da rivedere) Bonelli alla marcia delle donne nere a Rio de Janeiro: Vittoria di Lula fondamentale per il mondo. <p>AGI/Vista - \"Siamo qui a Rio de Janeiro, alla marcia delle donne nere. Oggi è una giornata importante che si ricolloca in una...",
+      "temi": []
+    },
+    {
+      "id": 45,
+      "politico_id": "meloni",
+      "fonte_tipo": "stampa",
+      "fonte_nome": "AGI",
+      "fonte_url": "https://www.agi.it/cronaca/news/2026-07-26/no-tav-val-di-susa-126-feriti-38239409/",
+      "riassunto": "(sintesi automatica grezza, da rivedere) Assalto No Tav in Val di Susa: fermati 4 antagonisti stranieri a Torino, 126 feriti tra le.... <p>AGI -&nbsp;&nbsp;Il giorno dopo l'assalto dei <strong>No Tav</strong> in Val di Susa arriva il bilancio delle forze dell'ordine ferite durante la guerriglia scatenata...",
+      "temi": []
+    },
+    {
+      "id": 41,
+      "politico_id": "vannacci",
+      "fonte_tipo": "stampa",
+      "fonte_nome": "La Repubblica",
+      "fonte_url": "https://www.repubblica.it/politica/2026/07/27/news/costi_sedi_partito_pd_lega_m5s_vannacci-425495354/",
+      "riassunto": "(sintesi automatica grezza, da rivedere) Sedi di partito, Pd e Lega spendono di più. Quella di Vannacci è quasi gratis. Per il Nazareno 41mila euro al mese, 30mila per via Bellerio. Tra i 10 e i 16mila per FdI, FI e M5S...",
+      "temi": []
+    },
+    {
+      "id": 40,
+      "politico_id": "meloni",
+      "fonte_tipo": "governo",
+      "fonte_nome": "Comunicato stampa - Consiglio dei Ministri",
+      "fonte_url": "https://www.governo.it/it/articolo/convocazione-del-consiglio-dei-ministri-n-182/32383",
+      "riassunto": "(sintesi automatica grezza, da rivedere) Convocazione del Consiglio dei Ministri n. 182 | www.governo.it Vai al Contenuto Raggiungi il piè di pagina MENU Homepage Il Presidente Homepage Presidente Giorgia Meloni, la biografia Funzioni Agenda Notizie Interventi Gallerie foto e video Il Governo Homepage Governo I...",
+      "temi": []
+    }
+  ],
+  "2026-07-26": [
+    {
+      "id": 44,
+      "politico_id": "vannacci",
+      "fonte_tipo": "stampa",
+      "fonte_nome": "La Repubblica",
+      "fonte_url": "https://www.repubblica.it/politica/2026/07/27/news/meloni_salvini_vannacci_sicurezza_morte_fakir-425494661/",
+      "riassunto": "(sintesi automatica grezza, da rivedere) “Tensioni nel Paese”. Palazzo Chigi frena su Salvini al Viminale. Il leader leghista considerato divisivo, tra piazze tornate calde e le nuove violenze dei No Tav. L’avanzata di Vannacci al Nord...",
+      "temi": []
+    },
+    {
+      "id": 43,
+      "politico_id": "salvini",
+      "fonte_tipo": "stampa",
+      "fonte_nome": "La Repubblica",
+      "fonte_url": "https://www.repubblica.it/politica/2026/07/27/news/meloni_salvini_vannacci_sicurezza_morte_fakir-425494661/",
+      "riassunto": "(sintesi automatica grezza, da rivedere) “Tensioni nel Paese”. Palazzo Chigi frena su Salvini al Viminale. Il leader leghista considerato divisivo, tra piazze tornate calde e le nuove violenze dei No Tav. L’avanzata di Vannacci al Nord...",
+      "temi": []
+    },
+    {
+      "id": 42,
+      "politico_id": "vannacci",
+      "fonte_tipo": "stampa",
+      "fonte_nome": "La Repubblica",
+      "fonte_url": "https://www.repubblica.it/politica/2026/07/27/news/bruno_guerri_michele_serra_populismo_social-425494668/",
+      "riassunto": "(sintesi automatica grezza, da rivedere) “Michele Serra ha ragione: il fanatismo non ha pensiero”. Parla Giordano Bruno Guerri: oggi la politica non guida il popolo ma lo insegue verso il basso. Vannacci e la sinistra “corretta” sono speculari...",
+      "temi": []
+    }
+  ],
   "2026-07-20": [
     {
       "id": 39,
