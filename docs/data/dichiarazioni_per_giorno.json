@@ -1,4 +1,44 @@
 {
+  "2026-08-31": [
+    {
+      "id": 258,
+      "politico_id": "schlein",
+      "fonte_tipo": "stampa",
+      "fonte_nome": "Il Fatto Quotidiano",
+      "fonte_url": "https://www.ilfattoquotidiano.it/2026/08/31/inflazione-alimentare-rincari-salari-notizie/8492675/",
+      "riassunto": "(sintesi automatica grezza, da rivedere) Prezzi del cibo alle stelle, Schlein: “Aumenti incontrollati e Meloni pensa ad autocelebrarsi e cambiare legge elettorale”. Conte: “Il governo festeggia, gli italiani no”. <p>I dati sull&#8217;aumento dei prezzi alimentari negli ultimi cinque anni elaborati in contemporanea da fattoquotidiano.it e...",
+      "temi": []
+    },
+    {
+      "id": 256,
+      "politico_id": "meloni",
+      "fonte_tipo": "governo",
+      "fonte_nome": "Comunicato stampa - Consiglio dei Ministri",
+      "fonte_url": "https://www.governo.it/it/articolo/convocazione-del-consiglio-dei-ministri-n-186/32521",
+      "riassunto": "(sintesi automatica grezza, da rivedere) Convocazione del Consiglio dei Ministri n. 186 | www.governo.it Vai al Contenuto Raggiungi il piè di pagina MENU Homepage Il Presidente Homepage Presidente Giorgia Meloni, la biografia Funzioni Agenda Notizie Interventi Gallerie foto e video Il Governo Homepage Governo I...",
+      "temi": []
+    }
+  ],
+  "2026-08-30": [
+    {
+      "id": 259,
+      "politico_id": "vannacci",
+      "fonte_tipo": "stampa",
+      "fonte_nome": "Il Sole 24 Ore",
+      "fonte_url": "https://www.ilsole24ore.com/art/l-ascesa-vannacci-complica-partita-legge-elettorale-torna-l-ipotesi-ballottaggio-AJ8v9dy",
+      "riassunto": "(sintesi automatica grezza, da rivedere) L’ascesa di Vannacci complica la partita della legge elettorale. Torna l’ipotesi ballottaggio. Tentazione ballottaggio per il centrodestra sulla legge elettorale. Ancora nessuna decisione sarebbe stata presa e le valutazioni, soprattutto dal punto di vista tecnico e di costituzionalità, sarebbero in...",
+      "temi": []
+    },
+    {
+      "id": 257,
+      "politico_id": "vannacci",
+      "fonte_tipo": "stampa",
+      "fonte_nome": "La Repubblica",
+      "fonte_url": "https://www.repubblica.it/commenti/2026/08/31/news/vannacci_e_l_angolo_cieco-425555390/",
+      "riassunto": "(sintesi automatica grezza, da rivedere) Vannacci e l’angolo cieco. Va letto bene, il programma del generale, nelle parti che riguardano giustizia e sicurezza. Perché poi magari era un falso allarme. O un abbaglio mediatico. Però dare un’occhiata più attenta vale la pena. Non sempre la...",
+      "temi": []
+    }
+  ],
   "2026-08-24": [
     {
       "id": 185,
@@ -685,7 +725,437 @@
       "temi": []
     }
   ],
+  "2025-05-14": [
+    {
+      "id": 288,
+      "politico_id": "schlein",
+      "fonte_tipo": "camera",
+      "fonte_nome": "Resoconto stenografico Camera - seduta n. 480",
+      "fonte_url": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0480/stenografico.htm",
+      "riassunto": "(sintesi automatica grezza, da rivedere) ( PD-IDP ). Presidente, due giorni fa, a Taurianova, alcune fioraie - le ho incontrate - mi hanno detto una cosa, mi hanno detto: bisogna saper scegliere ormai, se mangiare o curarsi. La sanità pubblica è al collasso: liste di...",
+      "temi": []
+    },
+    {
+      "id": 287,
+      "politico_id": "conte",
+      "fonte_tipo": "camera",
+      "fonte_nome": "Resoconto stenografico Camera - seduta n. 480",
+      "fonte_url": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0480/stenografico.htm",
+      "riassunto": "(sintesi automatica grezza, da rivedere) ( M5S ). Presidente ho concluso ( Dai banchi di Fratelli d'Italia : “Sciacallo!”). (Iniziative in relazione alla grave situazione del Servizio sanitario nazionale e alla necessità di garantire il diritto alla salute a tutti i cittadini - n....",
+      "temi": []
+    },
+    {
+      "id": 286,
+      "politico_id": "conte",
+      "fonte_tipo": "camera",
+      "fonte_nome": "Resoconto stenografico Camera - seduta n. 480",
+      "fonte_url": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0480/stenografico.htm",
+      "riassunto": "(sintesi automatica grezza, da rivedere) ( M5S ). Presidente Meloni, lei coglie sempre occasione per buttarla in caciara (Applausi dei deputati del gruppo MoVimento 5 Stelle - Commenti di deputati del gruppo Fratelli d'Italia) e, anziché fare la Presidente del Consiglio, assume queste che sono...",
+      "temi": []
+    },
+    {
+      "id": 285,
+      "politico_id": "meloni",
+      "fonte_tipo": "camera",
+      "fonte_nome": "Resoconto stenografico Camera - seduta n. 480",
+      "fonte_url": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0480/stenografico.htm",
+      "riassunto": "(sintesi automatica grezza, da rivedere) , Presidente del Consiglio dei ministri . … e alla fine saranno gli italiani a giudicare tra le due proposte (Applausi dei deputati dei gruppi Fratelli d'Italia, Lega-Salvini Premier, Forza Italia-Berlusconi Presidente-PPE e Noi Moderati (Noi con l'Italia, Coraggio Italia,...",
+      "temi": []
+    },
+    {
+      "id": 284,
+      "politico_id": "meloni",
+      "fonte_tipo": "camera",
+      "fonte_nome": "Resoconto stenografico Camera - seduta n. 480",
+      "fonte_url": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0480/stenografico.htm",
+      "riassunto": "(sintesi automatica grezza, da rivedere) , Presidente del Consiglio dei ministri . Guardi, onorevole Conte, devo dire che sono molto affascinata da questa sua recentissima e travolgente passione antimilitarista, che, però, nessuno aveva avuto modo di apprezzare quando lei era Presidente del Consiglio dei ministri...",
+      "temi": []
+    },
+    {
+      "id": 283,
+      "politico_id": "conte",
+      "fonte_tipo": "camera",
+      "fonte_nome": "Resoconto stenografico Camera - seduta n. 480",
+      "fonte_url": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0480/stenografico.htm",
+      "riassunto": "(sintesi automatica grezza, da rivedere) ( M5S ). Grazie, Presidente. Presidente Meloni, lei, lo scorso 6 marzo, al Consiglio europeo ha dato il suo primo fondamentale “sì” a un piano di riarmo che prevede investimenti, quindi spese sino a 800 miliardi, di fatto per riarmare...",
+      "temi": []
+    },
+    {
+      "id": 282,
+      "politico_id": "meloni",
+      "fonte_tipo": "camera",
+      "fonte_nome": "Resoconto stenografico Camera - seduta n. 480",
+      "fonte_url": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0480/stenografico.htm",
+      "riassunto": "(sintesi automatica grezza, da rivedere) , Presidente del Consiglio dei ministri . Grazie, collega Romano. Questo Governo sta lavorando, fin dal suo insediamento, per rendere il sistema sanitario nazionale più moderno e più efficiente, dare risposte sempre più adeguate e tempestive ai cittadini e riconoscere...",
+      "temi": []
+    },
+    {
+      "id": 281,
+      "politico_id": "meloni",
+      "fonte_tipo": "camera",
+      "fonte_nome": "Resoconto stenografico Camera - seduta n. 480",
+      "fonte_url": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0480/stenografico.htm",
+      "riassunto": "(sintesi automatica grezza, da rivedere) , Presidente del Consiglio dei ministri . Grazie, Presidente. Grazie, collega Boschi, per il quesito, per la domanda, che mi consente, invece, di ricordare i dati dal mio punto di vista positivi conseguiti dall'Italia in questi anni, pur in una...",
+      "temi": []
+    },
+    {
+      "id": 280,
+      "politico_id": "meloni",
+      "fonte_tipo": "camera",
+      "fonte_nome": "Resoconto stenografico Camera - seduta n. 480",
+      "fonte_url": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0480/stenografico.htm",
+      "riassunto": "(sintesi automatica grezza, da rivedere) , Presidente del Consiglio dei ministri . Grazie, Presidente. Onorevole Richetti, procedo per punti. Costo dell'energia: purtroppo anche nel 2024, come da molti anni, il prezzo medio dell'energia elettrica in Italia ha superato quello di altre nazioni europee ed è...",
+      "temi": []
+    },
+    {
+      "id": 279,
+      "politico_id": "meloni",
+      "fonte_tipo": "camera",
+      "fonte_nome": "Resoconto stenografico Camera - seduta n. 480",
+      "fonte_url": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0480/stenografico.htm",
+      "riassunto": "(sintesi automatica grezza, da rivedere) , Presidente del Consiglio dei ministri. Colleghi, conoscete la posizione del Governo in materia di Green Deal perché anch'io ho più volte denunciato in quest'Aula quanto una visione eccessivamente ideologica della transizione verde si sia rivelata drammatica per la competitività...",
+      "temi": []
+    },
+    {
+      "id": 278,
+      "politico_id": "meloni",
+      "fonte_tipo": "camera",
+      "fonte_nome": "Resoconto stenografico Camera - seduta n. 480",
+      "fonte_url": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0480/stenografico.htm",
+      "riassunto": "(sintesi automatica grezza, da rivedere) , Presidente del Consiglio dei ministri . Grazie, collega Molinari, per il quesito che mi consente di fare il punto sull'azione del Governo a sostegno delle Forze dell'ordine e dei Vigili del fuoco: uomini e donne che sono al servizio...",
+      "temi": []
+    },
+    {
+      "id": 277,
+      "politico_id": "bonelli",
+      "fonte_tipo": "camera",
+      "fonte_nome": "Resoconto stenografico Camera - seduta n. 480",
+      "fonte_url": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0480/stenografico.htm",
+      "riassunto": "(sintesi automatica grezza, da rivedere) ( AVS ). Lei si deve vergognare (Applausi dei deputati dei gruppi Alleanza Verdi e Sinistra, Partito Democratico-Italia Democratica e Progressista e MoVimento 5 Stelle) ! (Ulteriori iniziative a tutela delle forze dell'ordine e del comparto del soccorso pubblico -...",
+      "temi": []
+    },
+    {
+      "id": 276,
+      "politico_id": "bonelli",
+      "fonte_tipo": "camera",
+      "fonte_nome": "Resoconto stenografico Camera - seduta n. 480",
+      "fonte_url": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0480/stenografico.htm",
+      "riassunto": "(sintesi automatica grezza, da rivedere) ( AVS ). Signora Presidente, veramente lei prima ha detto “madre”. Adesso glielo dico da padre: io sono inorridito, indignato dalla sua ipocrisia (Applausi dei deputati dei gruppi Alleanza Verdi e Sinistra, Partito Democratico-Italia Democratica e Progressista e MoVimento 5...",
+      "temi": []
+    },
+    {
+      "id": 275,
+      "politico_id": "meloni",
+      "fonte_tipo": "camera",
+      "fonte_nome": "Resoconto stenografico Camera - seduta n. 480",
+      "fonte_url": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0480/stenografico.htm",
+      "riassunto": "(sintesi automatica grezza, da rivedere) , Presidente del Consiglio dei ministri . Grazie, Presidente. Come sapete, fin dall'inizio del conflitto a Gaza, il Governo italiano è stato in prima fila, tanto sul piano diplomatico quanto sul piano umanitario, un ruolo che viene riconosciuto da tutti...",
+      "temi": []
+    },
+    {
+      "id": 274,
+      "politico_id": "bonelli",
+      "fonte_tipo": "camera",
+      "fonte_nome": "Resoconto stenografico Camera - seduta n. 480",
+      "fonte_url": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0480/stenografico.htm",
+      "riassunto": "(sintesi automatica grezza, da rivedere) ( AVS ). Grazie, Presidente. Signora Presidente, a Gaza è morta l'umanità, seppellita dalle bombe di Netanyahu, bombe che hanno determinato un disastro umanitario. Sono stati bombardati ospedali, campi profughi, scuole. Netanyahu usa la fame come strumento di annientamento del...",
+      "temi": []
+    },
+    {
+      "id": 273,
+      "politico_id": "meloni",
+      "fonte_tipo": "camera",
+      "fonte_nome": "Resoconto stenografico Camera - seduta n. 480",
+      "fonte_url": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0480/stenografico.htm",
+      "riassunto": "(sintesi automatica grezza, da rivedere) , Presidente del Consiglio dei ministri . Grazie, Presidente. Come è noto, il sistema elettorale per le elezioni del Parlamento europeo è disciplinato dalla legge n. 18 del 1979 e prevede la suddivisione del territorio nazionale in 5 circoscrizioni, a...",
+      "temi": []
+    },
+    {
+      "id": 272,
+      "politico_id": "meloni",
+      "fonte_tipo": "camera",
+      "fonte_nome": "Resoconto stenografico Camera - seduta n. 480",
+      "fonte_url": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0480/stenografico.htm",
+      "riassunto": "(sintesi automatica grezza, da rivedere) , Presidente del Consiglio dei ministri . Sì, chiedo scusa, Presidente, concludo. Lo dicevo per dire che è mia intenzione istituire a Palazzo Chigi un gruppo di lavoro per affrontare questa materia, che vorrei coinvolgere in questa iniziativa soprattutto chi...",
+      "temi": []
+    },
+    {
+      "id": 271,
+      "politico_id": "meloni",
+      "fonte_tipo": "camera",
+      "fonte_nome": "Resoconto stenografico Camera - seduta n. 480",
+      "fonte_url": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0480/stenografico.htm",
+      "riassunto": "(sintesi automatica grezza, da rivedere) , Presidente del Consiglio dei ministri . Collega Roscani, grazie per un quesito che mi consente di aprire con voi un tema che credo stia a cuore a ciascuno di noi, come quello delle giovani generazioni, che certamente sta a...",
+      "temi": []
+    }
+  ],
+  "2025-05-07": [
+    {
+      "id": 270,
+      "politico_id": "salvini",
+      "fonte_tipo": "camera",
+      "fonte_nome": "Resoconto stenografico Camera - seduta n. 476",
+      "fonte_url": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0476/stenografico.htm",
+      "riassunto": "(sintesi automatica grezza, da rivedere) , Ministro delle Infrastrutture e dei trasporti . Ringrazio. Genova sta vivendo una fase di grande trasformazione infrastrutturale dopo troppi decenni di “no” da parte delle giunte di sinistra che si sono susseguite, con progetti strategici volti a migliorare la...",
+      "temi": []
+    }
+  ],
+  "2025-05-06": [
+    {
+      "id": 269,
+      "politico_id": "fratoianni",
+      "fonte_tipo": "camera",
+      "fonte_nome": "Resoconto stenografico Camera - seduta n. 475",
+      "fonte_url": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0475/stenografico.htm",
+      "riassunto": "(sintesi automatica grezza, da rivedere) ( AVS ). Grazie, signor Presidente. Intervengo sull'ordine dei lavori, a nome del mio gruppo, Alleanza Verdi e Sinistra, per chiedere che la Presidente del Consiglio, Giorgia Meloni, venga in Aula a riferire su quello che sta accadendo in Medio...",
+      "temi": []
+    }
+  ],
+  "2025-04-16": [
+    {
+      "id": 268,
+      "politico_id": "salvini",
+      "fonte_tipo": "camera",
+      "fonte_nome": "Resoconto stenografico Camera - seduta n. 468",
+      "fonte_url": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0468/stenografico.htm",
+      "riassunto": "(sintesi automatica grezza, da rivedere) , Ministro delle Infrastrutture e dei trasporti . Grazie, Presidente. La ringrazio da Ministro e da milanese per l'interrogazione. Come lei osservava in premessa, le vicende giudiziarie e amministrative relative alle operazioni della cosiddetta demo-ricostruzione nel comune di Milano non...",
+      "temi": []
+    },
+    {
+      "id": 267,
+      "politico_id": "salvini",
+      "fonte_tipo": "camera",
+      "fonte_nome": "Resoconto stenografico Camera - seduta n. 468",
+      "fonte_url": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0468/stenografico.htm",
+      "riassunto": "(sintesi automatica grezza, da rivedere) , Ministro delle Infrastrutture e dei trasporti . Grazie, Presidente. Ricordo - come lei ha giustamente ricordato - che, con il decreto del 2024, finalmente, per la prima volta, dopo anni di vuoto normativo, abbiamo dato un quadro giuridico ai...",
+      "temi": []
+    },
+    {
+      "id": 266,
+      "politico_id": "salvini",
+      "fonte_tipo": "camera",
+      "fonte_nome": "Resoconto stenografico Camera - seduta n. 468",
+      "fonte_url": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0468/stenografico.htm",
+      "riassunto": "(sintesi automatica grezza, da rivedere) , Ministro delle Infrastrutture e dei trasporti . Grazie, Presidente. È curioso che chi chiede di spendere meno per arrivare in Sicilia sia contro il ponte sullo Stretto di Messina che permetterà di arrivare in Sicilia più velocemente, spendendo meno...",
+      "temi": []
+    },
+    {
+      "id": 265,
+      "politico_id": "salvini",
+      "fonte_tipo": "camera",
+      "fonte_nome": "Resoconto stenografico Camera - seduta n. 468",
+      "fonte_url": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0468/stenografico.htm",
+      "riassunto": "(sintesi automatica grezza, da rivedere) , Ministro delle Infrastrutture e dei trasporti . La ringrazio. È chiaro che sono i tecnici, ovviamente, a decidere come e dove cominciano e quanto durano i cantieri e non è la politica. In premessa, ricordo che anche quest'estate la...",
+      "temi": []
+    },
+    {
+      "id": 264,
+      "politico_id": "salvini",
+      "fonte_tipo": "camera",
+      "fonte_nome": "Resoconto stenografico Camera - seduta n. 468",
+      "fonte_url": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0468/stenografico.htm",
+      "riassunto": "(sintesi automatica grezza, da rivedere) , Ministro delle Infrastrutture e dei trasporti . Grazie. È chiaro che, in premessa, ogni tipo di disservizio sulla linea ferroviaria non può essere accettato come normalità. Precisiamo adesso i numeri, non le opinioni o le impressioni che il suo...",
+      "temi": []
+    },
+    {
+      "id": 263,
+      "politico_id": "fratoianni",
+      "fonte_tipo": "camera",
+      "fonte_nome": "Resoconto stenografico Camera - seduta n. 468",
+      "fonte_url": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0468/stenografico.htm",
+      "riassunto": "(sintesi automatica grezza, da rivedere) ( AVS ). Grazie, signor Presidente. Signor Sottosegretario, colleghe e colleghi, siamo di nuovo qui, a un appuntamento che ormai ha una cadenza rituale nella discussione di quest'Aula. Lo abbiamo sottolineato nella discussione in Commissione, lo abbiamo detto l'anno scorso,...",
+      "temi": []
+    }
+  ],
+  "2025-04-15": [
+    {
+      "id": 262,
+      "politico_id": "bonelli",
+      "fonte_tipo": "camera",
+      "fonte_nome": "Resoconto stenografico Camera - seduta n. 467",
+      "fonte_url": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0467/stenografico.htm",
+      "riassunto": "(sintesi automatica grezza, da rivedere) ( AVS ). Grazie, signora Presidente. Il gruppo di Alleanza Verdi e Sinistra voterà “no” alla fiducia che il Governo ha chiesto su questo decreto, non solo perché non diamo la fiducia al Governo, ma ovviamente anche nel merito del...",
+      "temi": []
+    }
+  ],
+  "2025-04-02": [
+    {
+      "id": 261,
+      "politico_id": "fratoianni",
+      "fonte_tipo": "camera",
+      "fonte_nome": "Resoconto stenografico Camera - seduta n. 461",
+      "fonte_url": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0461/stenografico.htm",
+      "riassunto": "(sintesi automatica grezza, da rivedere) ( AVS ). Grazie, Presidente. Signor Ministro, sono davvero senza parole, l'ho detto prima. Anche questa volta lei di parole non ne ha trovate. Ha ripetuto quelle che ha ripetuto molte volte in quest'Aula: chiediamo ad Israele una reazione proporzionata....",
+      "temi": []
+    },
+    {
+      "id": 260,
+      "politico_id": "fratoianni",
+      "fonte_tipo": "camera",
+      "fonte_nome": "Resoconto stenografico Camera - seduta n. 461",
+      "fonte_url": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0461/stenografico.htm",
+      "riassunto": "(sintesi automatica grezza, da rivedere) ( AVS ). Grazie, signor Presidente. Recentemente, signor Ministro, il Governo di Netanyahu ha rotto unilateralmente la tregua che era stata finalmente siglata dopo 15 mesi di inferno, ricominciando con il suo ciclo dell'orrore. Signor Ministro, noi abbiamo finito le...",
+      "temi": []
+    }
+  ],
+  "2025-03-26": [
+    {
+      "id": 255,
+      "politico_id": "salvini",
+      "fonte_tipo": "camera",
+      "fonte_nome": "Resoconto stenografico Camera - seduta n. 456",
+      "fonte_url": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0456/stenografico.htm",
+      "riassunto": "(sintesi automatica grezza, da rivedere) , Ministro delle Infrastrutture e dei trasporti . Ringrazio, Presidente, il collega, che ricorda che i cittadini aspettano da 40 anni. Noi siamo bravini, però fare in 2 anni quello che non hanno fatto in 40 anni è abbastanza ambiziosa...",
+      "temi": []
+    },
+    {
+      "id": 254,
+      "politico_id": "salvini",
+      "fonte_tipo": "camera",
+      "fonte_nome": "Resoconto stenografico Camera - seduta n. 456",
+      "fonte_url": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0456/stenografico.htm",
+      "riassunto": "(sintesi automatica grezza, da rivedere) , Ministro delle Infrastrutture e dei trasporti . Grazie per la questione che mi permette, innanzitutto, di ringraziare tutte le lavoratrici e i lavoratori delle Ferrovie dello Stato, e poi di ringraziare il mezzo miliardo di viaggiatori che, solo nel...",
+      "temi": []
+    },
+    {
+      "id": 253,
+      "politico_id": "salvini",
+      "fonte_tipo": "camera",
+      "fonte_nome": "Resoconto stenografico Camera - seduta n. 456",
+      "fonte_url": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0456/stenografico.htm",
+      "riassunto": "(sintesi automatica grezza, da rivedere) , Ministro delle Infrastrutture e dei trasporti . Grazie. Innanzitutto, ringrazio l'Aula perché i dati rilevati da Polizia stradale e Carabinieri dei primi 3 mesi di entrata in vigore del codice della strada ci dicono che abbiamo lavorato, avete lavorato...",
+      "temi": []
+    },
+    {
+      "id": 252,
+      "politico_id": "salvini",
+      "fonte_tipo": "camera",
+      "fonte_nome": "Resoconto stenografico Camera - seduta n. 456",
+      "fonte_url": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0456/stenografico.htm",
+      "riassunto": "(sintesi automatica grezza, da rivedere) , Ministro delle Infrastrutture e dei trasporti . Ringrazio gli interroganti che mi permettono di rifare chiarezza, ricordando date e nomi. In data 31 maggio 2017, all'esito di una procedura di gara europea, il Ministero delle Infrastrutture e dei trasporti...",
+      "temi": []
+    },
+    {
+      "id": 251,
+      "politico_id": "bonelli",
+      "fonte_tipo": "camera",
+      "fonte_nome": "Resoconto stenografico Camera - seduta n. 456",
+      "fonte_url": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0456/stenografico.htm",
+      "riassunto": "(sintesi automatica grezza, da rivedere) ( AVS ). No, non ce l'avete. State facendo un'enorme forzatura (Applausi dei deputati del gruppo Alleanza Verdi e Sinistra) . (Iniziative di competenza volte a preservare la gratuità del raccordo autostradale Montichiari-Ospitaletto, noto come \"Corda Molle\", in provincia di...",
+      "temi": []
+    },
+    {
+      "id": 250,
+      "politico_id": "bonelli",
+      "fonte_tipo": "camera",
+      "fonte_nome": "Resoconto stenografico Camera - seduta n. 456",
+      "fonte_url": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0456/stenografico.htm",
+      "riassunto": "(sintesi automatica grezza, da rivedere) ( AVS ). Concludo. Ecco perché quello del CIPESS è un problema molto serio. Chi darà il via libera? Giorgia Meloni? Ha competenza in materia di ponti? Ha competenza in materia di questo tipo?...",
+      "temi": []
+    },
+    {
+      "id": 249,
+      "politico_id": "bonelli",
+      "fonte_tipo": "camera",
+      "fonte_nome": "Resoconto stenografico Camera - seduta n. 456",
+      "fonte_url": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0456/stenografico.htm",
+      "riassunto": "(sintesi automatica grezza, da rivedere) ( AVS ). Grazie, Presidente. Prendo atto della risposta del Ministro, che in realtà conferma una cosa che è contraddittoria rispetto a quello che poc'anzi ha affermato, ovvero che non sarà presto, perché il progetto ha avuto un parere negativo...",
+      "temi": []
+    },
+    {
+      "id": 248,
+      "politico_id": "salvini",
+      "fonte_tipo": "camera",
+      "fonte_nome": "Resoconto stenografico Camera - seduta n. 456",
+      "fonte_url": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0456/stenografico.htm",
+      "riassunto": "(sintesi automatica grezza, da rivedere) , Ministro delle Infrastrutture e dei trasporti . Grazie, signor Presidente. Colleghi, il quesito posto ci chiede se siamo nelle condizioni di portare presto al CIPESS, quindi all'approvazione del progetto definitivo, le deliberazioni di competenza sul ponte sullo Stretto. La...",
+      "temi": []
+    },
+    {
+      "id": 247,
+      "politico_id": "bonelli",
+      "fonte_tipo": "camera",
+      "fonte_nome": "Resoconto stenografico Camera - seduta n. 456",
+      "fonte_url": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0456/stenografico.htm",
+      "riassunto": "(sintesi automatica grezza, da rivedere) ( AVS ). Grazie, signor Presidente. Signor Ministro, lei sa che la Commissione VIA ha dato un parere negativo della VIncA per quanto attiene il progetto del ponte sullo Stretto di Messina. Quindi, le chiedo: come potrà portare al CIPESS...",
+      "temi": []
+    },
+    {
+      "id": 246,
+      "politico_id": "schlein",
+      "fonte_tipo": "camera",
+      "fonte_nome": "Resoconto stenografico Camera - seduta n. 456",
+      "fonte_url": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0456/stenografico.htm",
+      "riassunto": "(sintesi automatica grezza, da rivedere) ( PD-IDP ). … un'altra Ministra del Lavoro che mente sulla sua laurea, che sarebbe stata ottenuta senza pagare la retta e facendo gli esami di domenica (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista) . Concludo. Lei...",
+      "temi": []
+    },
+    {
+      "id": 245,
+      "politico_id": "schlein",
+      "fonte_tipo": "camera",
+      "fonte_nome": "Resoconto stenografico Camera - seduta n. 456",
+      "fonte_url": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0456/stenografico.htm",
+      "riassunto": "(sintesi automatica grezza, da rivedere) ( PD-IDP ). Grazie, Presidente. Ministro, la sua difesa d'ufficio di un torturatore libico rappresenta una delle pagine più vergognose a cui questo Parlamento è stato sottoposto e devo dire che, quanto a pagine vergognose, il Governo, di cui fa...",
+      "temi": []
+    },
+    {
+      "id": 244,
+      "politico_id": "bonelli",
+      "fonte_tipo": "camera",
+      "fonte_nome": "Resoconto stenografico Camera - seduta n. 456",
+      "fonte_url": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0456/stenografico.htm",
+      "riassunto": "(sintesi automatica grezza, da rivedere) ( AVS ). Grazie, signor Presidente. Signor Ministro, lei ha detto, rivolgendosi ad alcuni interventi dell'opposizione, che le abbiamo fatto tenerezza. Bene, le posso dire con molta franchezza che lei a noi fa molta rabbia e proviamo anche molta vergogna...",
+      "temi": []
+    }
+  ],
+  "2025-03-25": [
+    {
+      "id": 243,
+      "politico_id": "fratoianni",
+      "fonte_tipo": "camera",
+      "fonte_nome": "Resoconto stenografico Camera - seduta n. 455",
+      "fonte_url": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0455/stenografico.htm",
+      "riassunto": "(sintesi automatica grezza, da rivedere) ( AVS ). Grazie, Presidente. Torno a chiedere un'informativa del Ministro degli Esteri, Antonio Tajani. L'ho già fatto qualche giorno fa. Mi dispiace davvero doverlo fare non perché mi trovo di nuovo a chiedere un'informativa che non è ancora arrivata,...",
+      "temi": []
+    }
+  ],
   "2025-03-19": [
+    {
+      "id": 242,
+      "politico_id": "schlein",
+      "fonte_tipo": "camera",
+      "fonte_nome": "Resoconto stenografico Camera - seduta n. 450",
+      "fonte_url": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0450/stenografico.htm",
+      "riassunto": "(sintesi automatica grezza, da rivedere) ( PD-IDP ). Arrivo a conclusione. Mi si consenta su questo: la Presidente Meloni non solo non ha il coraggio di difendere i valori su cui l'Unione si è fondata dagli attacchi di Trump e di Musk, ma oggi qui...",
+      "temi": []
+    },
+    {
+      "id": 241,
+      "politico_id": "schlein",
+      "fonte_tipo": "camera",
+      "fonte_nome": "Resoconto stenografico Camera - seduta n. 450",
+      "fonte_url": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0450/stenografico.htm",
+      "riassunto": "(sintesi automatica grezza, da rivedere) ( PD-IDP ). Dicevo che l'ultima apparizione della Presidente Meloni risale allo scorso dicembre e le volte in cui si è palesata in quest'Aula si contano sulle dita delle mani. Così, si è chiusa per mesi nel silenzio imbarazzato di...",
+      "temi": []
+    },
+    {
+      "id": 240,
+      "politico_id": "schlein",
+      "fonte_tipo": "camera",
+      "fonte_nome": "Resoconto stenografico Camera - seduta n. 450",
+      "fonte_url": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0450/stenografico.htm",
+      "riassunto": "(sintesi automatica grezza, da rivedere) ( PD-IDP ). Grazie, Presidente. La Presidente Meloni è fuggita di nuovo, non c'è che dire, non la vedevamo da dicembre scorso e le volte in cui si è palesata in quest'Aula (Commenti) ......",
+      "temi": []
+    },
+    {
+      "id": 239,
+      "politico_id": "conte",
+      "fonte_tipo": "camera",
+      "fonte_nome": "Resoconto stenografico Camera - seduta n. 450",
+      "fonte_url": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0450/stenografico.htm",
+      "riassunto": "(sintesi automatica grezza, da rivedere) ( M5S ). Allora, concludo. Noi ci ritroveremo il 5 aprile a Roma a dire “no” a questo piano folle di riarmo (Applausi dei deputati del gruppo MoVimento 5 Stelle), “no” a un'economia di guerra; “sì” a un piano di...",
+      "temi": []
+    },
     {
       "id": 238,
       "politico_id": "conte",
